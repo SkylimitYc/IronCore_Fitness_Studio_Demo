@@ -1,16 +1,42 @@
-# React + Vite
+## 02 — IronCore Fitness Studio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+**IronCore Fitness Studio** is a premium fitness website concept designed and developed as a portfolio project for K&P Tech Solutions.
 
-Currently, two official plugins are available:
+The goal of this project was to create a modern, high-energy fitness website with a strong visual identity, responsive layout, smooth interactions, and practical frontend features suitable for a gym or fitness studio.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Highlights
 
-## React Compiler
+- Modern dark UI with neon green fitness branding
+- Fully responsive layout for desktop, tablet, and mobile
+- Interactive navigation and scroll-based animations
+- Dedicated Programs, Membership, Trainers, Gallery, and FAQ sections
+- BMI Calculator for interactive user engagement
+- Form validation with demo-safe submission behavior
+- Mobile-friendly navigation
+- Optimized WebP assets for improved loading performance
+- Clean reusable React component structure
+- Production deployment using Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Tech Stack
 
-## Expanding the Oxlint configuration
+- React
+- Vite
+- JavaScript
+- CSS
+- Responsive Design
+- Git & GitHub
+- Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Live Project
+
+**Live Demo:**  
+https://iron-core-fitness-studio-demo.vercel.app/
+
+**GitHub Repository:**  
+https://github.com/SkylimitYc/IronCore_Fitness_Studio_Demo
+
+### Project Purpose
+
+This project was created as a **concept/demo website** to demonstrate K&P Tech Solutions' ability to design, build, optimize, and deploy modern websites for local businesses such as gyms and fitness studios.
+
+> **Note:** IronCore Fitness Studio is a portfolio concept project and is not presented as a real client website.
